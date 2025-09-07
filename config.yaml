@@ -1,0 +1,8 @@
+---
+profiles:
+  default:
+    network: Testnet
+    private_key: ed25519-priv-0x865b1b58f702c4b57c1133908e8a03b9c66eb4008196f20386053d221c66e337
+    public_key: ed25519-pub-0x64e78270b6daf3cd02e4e7159c3867a4e46dc47acf952ae04a00808477287e59
+    account: ef8798608c2a800fd0555c34df922cbe3cfced1b5e107ca6178f6178d015d3e9
+    rest_url: "https://fullnode.testnet.aptoslabs.com"
